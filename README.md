@@ -8,5 +8,6 @@
     |  ----  | ----  | ----  |
     | 耗时(s) | 0.001~0.002 | 不包括人脸检测和画点，仅关键点检测和matrix化 |
 5. 效果
-6. 注意：dlib库的安装，参考：https://blog.csdn.net/qq_41185868/article/details/79678783
+![image](https://user-images.githubusercontent.com/48787805/111484133-6d9c9f80-8770-11eb-8dfc-cb4530eda718.png)
+7. 注意：dlib库的安装，参考：https://blog.csdn.net/qq_41185868/article/details/79678783
 
