@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import dlib
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 face_detector = dlib.get_frontal_face_detector()
 landmark_predictor = dlib.shape_predictor('shape_predictor_81_face_landmarks.dat')
